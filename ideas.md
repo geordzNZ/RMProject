@@ -8,7 +8,8 @@
 <hr>
 
 ## 2) Viewing Database
-* **MVP** Store details of TV shows I'm watching, or want to watch.  Details like name / genre / where it is / season / episodes / watched / recommend / rewatch
+* **MVP** Store details of TV shows I'm watching, or want to watch.  
+* Details like name / genre / where it is / season / episodes / watched / recommend / rewatch
 
 <hr>
 
